@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: June 05, 2018 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Classfied Sports car from minivans using Supervised learning and sklearn
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with ML, but, overall, I feel like I am slowly getting better at it. Sklearn is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [ML Model](https://github.com/vishal2develop/100-Days-of-codes/blob/master/ML-001.py)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
