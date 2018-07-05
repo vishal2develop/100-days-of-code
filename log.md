@@ -1,7 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Machine Learning Code - Log
 
-### Day 0: June 05, 2018 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 05, 2018 (Code 1)
 
 **Today's Progress**: Classfied Sports car from minivans using Supervised learning and sklearn
 
@@ -9,17 +8,24 @@
 
 **Link to work:** [ML Model](https://github.com/vishal2develop/100-Days-of-codes/blob/master/ML-001.py)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: June 06, 2018 (Code 2)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Sucesfully Visualized a Decision Tree and learned about feature scaling 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggled with the theory part of feature scaling, but, overall, I feel like I am slowly getting better at it.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Visualizing a Decision Tree](https://github.com/vishal2develop/100-Days-of-codes/blob/master/ML-002.ipynb)
+
+### Day 2: June 06, 2018 (Code 3)
+
+**Today's Progress**: Plotted Some data with matplotlib
+
+**Thoughts**: This was easy and fun.
+
+**Link(s) to work**: [Plotting Data](https://github.com/vishal2develop/100-Days-of-codes/blob/master/ML-003.ipynb)
 
 
-### Day 1: June 27, Monday
+### Day 3: June 07, 2018
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
