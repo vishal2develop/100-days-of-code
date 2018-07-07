@@ -27,10 +27,11 @@
 
 ### Day 3: June 07, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I wrote my first machine learning pipeline. 
+                      I wrote my first classifier from scratch for the iris dataset 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I never knew what pipelines were and now i understand why they are so important. Coding the classifier was a bit tricky and required me to do some resarch on Kneighbours.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [My First Pipeline](https://github.com/vishal2develop/100-Days-of-ML_code/blob/master/ML-004.ipynb)
+2. [My Classifier](https://github.com/vishal2develop/100-Days-of-ML_code/blob/master/ML-005.ipynb)
